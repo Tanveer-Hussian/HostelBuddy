@@ -4,7 +4,7 @@ HostelBuddy is a smart Expense Tracking App built specifically for hostel reside
 It simplifies financial tracking for hostelers and helps them monitor how their shared and personal expenses change over time.
 
 🚀 Features
-🏠 Core Expense Management
+
 
 💵 Add & Track Expenses: Record daily expenses with title, amount, and category.
 
@@ -14,13 +14,10 @@ It simplifies financial tracking for hostelers and helps them monitor how their 
 
 💰 Total & Average Calculation: Displays total spending and daily/monthly averages.
 
-🍽️ Mess Management System
 
 🧾 Mess Bill Calculator: Automatically calculates the total mess bill based on items added.
 
 🍛 Customizable Menu: Add, edit, or delete menu items dynamically.
-
-👥 Per-Head Cost Sharing: Calculates each member’s contribution automatically.
 
 📊 Daily Expense Visualization: Generates charts for meal-wise and day-wise expense summaries.
 
@@ -33,6 +30,7 @@ It simplifies financial tracking for hostelers and helps them monitor how their 
 📅 Monthly Insights: Visualize expenses for the selected month or range.
 
 📉 Compare Trends: Track how your spending habits evolve over time.
+
 
 🧰 Customization & Settings
 
@@ -53,15 +51,15 @@ It simplifies financial tracking for hostelers and helps them monitor how their 
 🧮 Summary Widgets: Live total, remaining, and per-day average display.
 
 🛠️ Tech Stack
-Category	Technology
-Framework	Flutter (Dart)
-State Management	GetX
-Local Database	SQLite / Local Files
-Charts	fl_chart
-Fonts	Google Fonts
-UI Theme	Material 3, Deep Purple Accent
-Image Handling	image_picker
-Other Packages	intl, shared_preferences
+Category	         Technology
+Framework	Flutter   (Dart)
+State Management	  GetX
+Local Database  	  Hive
+Charts	            fl_chart
+Fonts	              Google Fonts
+UI Theme	          Material 3, Deep Purple Accent
+Image Handling	    image_picker
+Other Packages	    intl, shared_preferences
 📱 Screens / Pages Overview
 Page	Description
 Splash Screen	Modern animated splash with app logo and deep purple theme.

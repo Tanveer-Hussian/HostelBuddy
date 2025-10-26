@@ -1,4 +1,4 @@
-HostelBuddy
+💰 HostelBuddy
 
 HostelBuddy is a smart Expense Tracking App built specifically for hostel residents to manage their mess expenses, daily spending, and visual analytics — all in one place.
 It simplifies financial tracking for hostelers and helps them monitor how their shared and personal expenses change over time.

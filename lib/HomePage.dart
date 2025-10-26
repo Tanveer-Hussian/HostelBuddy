@@ -9,10 +9,10 @@ class HomePage extends StatelessWidget{
    final controller = Get.put(NavController());
 
    final List<String> titles = [
-     '🍛 Mess Menu',
+     'Mess Menu',
      'Customize Menu',
      'Stats and Insights',
-     '📜 Bills & History',
+     'Bills & History',
   ];
 
   @override

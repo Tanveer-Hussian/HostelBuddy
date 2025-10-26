@@ -31,7 +31,7 @@ It simplifies financial tracking for hostelers and helps them monitor how their 
 
 📉 Compare Trends: Track how your spending habits evolve over time.
 
-\n
+.
 
 🛠️ Tech Stack:
 
@@ -52,7 +52,8 @@ UI Theme	   ----        Material 3, Deep Purple Accent
 Image Handling	----     image_picker
 
 Other Packages	----     intl, shared_preferences
-\n
+
+.
 
 📱 Screens / Pages Overview:
 
@@ -67,6 +68,7 @@ Visualize Page:	Interactive line and pie charts showing spending patterns.
 
 Customize Page:	Edit meal items, rates, or delete old entries easily and  also allows users to add new Items in the Mess
 
+.
 
 💡 Future Enhancements:
 
@@ -81,7 +83,8 @@ Customize Page:	Edit meal items, rates, or delete old entries easily and  also a
 📤 Export expense reports to PDF/Excel
 
 🧾 Multi-member group mess tracking
-\n
+.
+
 
 ✨Developer
 

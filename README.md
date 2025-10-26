@@ -1,16 +1,72 @@
-# smart_mess_bill_calculator
+HostelBuddy
 
-A new Flutter project.
+HostelBuddy is a smart Expense Tracking App built specifically for hostel residents to manage their mess expenses, daily spending, and visual analytics — all in one place.
+It simplifies financial tracking for hostelers and helps them monitor how their shared and personal expenses change over time.
 
-## Getting Started
+🚀 Features
+🏠 Core Expense Management
 
-This project is a starting point for a Flutter application.
+💵 Add & Track Expenses: Record daily expenses with title, amount, and category.
 
-A few resources to get you started if this is your first Flutter project:
+✏️ Edit or Delete Entries: Update or remove wrong entries anytime.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📅 Date-Based Tracking: Automatically logs expenses with the current date and allows custom date selection.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💰 Total & Average Calculation: Displays total spending and daily/monthly averages.
+
+🍽️ Mess Management System
+
+🧾 Mess Bill Calculator: Automatically calculates the total mess bill based on items added.
+
+🍛 Customizable Menu: Add, edit, or delete menu items dynamically.
+
+👥 Per-Head Cost Sharing: Calculates each member’s contribution automatically.
+
+📊 Daily Expense Visualization: Generates charts for meal-wise and day-wise expense summaries.
+
+📊 Data Visualization & Analytics
+
+📈 Line Charts: Shows daily spending trends over time.
+
+🥧 Pie Charts: Displays category-wise expense distribution.
+
+📅 Monthly Insights: Visualize expenses for the selected month or range.
+
+📉 Compare Trends: Track how your spending habits evolve over time.
+
+🧰 Customization & Settings
+
+🧩 Customize Menu Items: Change mess menu items and costs on the fly.
+
+🎨 Modern UI: Clean, minimal design with deep purple accent and Material 3 aesthetics.
+
+🧠 Responsive Layout: Adjusts perfectly for all screen sizes.
+
+🔤 Google Fonts Integration: Elegant typography for consistent visual experience.
+
+💾 Data Handling
+
+🗂️ Local Data Storage: Uses local database to persist all expenses and mess data.
+
+♻️ Auto Refresh: Real-time updates after any change using GetX reactivity.
+
+🧮 Summary Widgets: Live total, remaining, and per-day average display.
+
+🛠️ Tech Stack
+Category	Technology
+Framework	Flutter (Dart)
+State Management	GetX
+Local Database	SQLite / Local Files
+Charts	fl_chart
+Fonts	Google Fonts
+UI Theme	Material 3, Deep Purple Accent
+Image Handling	image_picker
+Other Packages	intl, shared_preferences
+📱 Screens / Pages Overview
+Page	Description
+Splash Screen	Modern animated splash with app logo and deep purple theme.
+Home Page	Displays daily expenses, total summary, and navigation to mess or visualization.
+Add Expense Page	Allows users to add or edit expenses with validations.
+Mess Page	Manage mess menu, calculate total and per-head cost.
+Visualize Page	Interactive line and pie charts showing spending patterns.
+Customize Page	Edit meal items, rates, or delete old entries easily.

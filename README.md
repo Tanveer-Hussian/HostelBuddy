@@ -32,33 +32,16 @@ It simplifies financial tracking for hostelers and helps them monitor how their 
 📉 Compare Trends: Track how your spending habits evolve over time.
 
 
-🧰 Customization & Settings
-
-🧩 Customize Menu Items: Change mess menu items and costs on the fly.
-
-🎨 Modern UI: Clean, minimal design with deep purple accent and Material 3 aesthetics.
-
-🧠 Responsive Layout: Adjusts perfectly for all screen sizes.
-
-🔤 Google Fonts Integration: Elegant typography for consistent visual experience.
-
-💾 Data Handling
-
-🗂️ Local Data Storage: Uses local database to persist all expenses and mess data.
-
-♻️ Auto Refresh: Real-time updates after any change using GetX reactivity.
-
-🧮 Summary Widgets: Live total, remaining, and per-day average display.
 
 🛠️ Tech Stack
 
-Category	         Technology
+Category	           Technology
 
-Framework	Flutter   (Dart)
+Framework	Flutter     (Dart)
 
-State Management	  GetX
+State Management	    GetX
 
-Local Database  	  Hive
+Local Database  	    Hive
 
 Charts	            fl_chart
 

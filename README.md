@@ -31,31 +31,31 @@ It simplifies financial tracking for hostelers and helps them monitor how their 
 
 📉 Compare Trends: Track how your spending habits evolve over time.
 
+\n
 
+🛠️ Tech Stack:
 
-🛠️ Tech Stack
+Category	 ----            Technology
 
-Category	           Technology
+Framework	Flutter  ----    (Dart)
 
-Framework	Flutter     (Dart)
+State Management	 ----    GetX
 
-State Management	    GetX
+Local Database  ---- 	    Hive
 
-Local Database  	    Hive
+Charts	      ----       fl_chart
 
-Charts	            fl_chart
+Fonts	      ----         Google Fonts
 
-Fonts	              Google Fonts
+UI Theme	   ----        Material 3, Deep Purple Accent
 
-UI Theme	          Material 3, Deep Purple Accent
+Image Handling	----     image_picker
 
-Image Handling	    image_picker
-
-Other Packages	    intl, shared_preferences
+Other Packages	----     intl, shared_preferences
+\n
 
 📱 Screens / Pages Overview:
 
-Page	Description
 
 Splash Screen: 	Modern animated splash with app logo and deep purple theme.
 
@@ -68,7 +68,7 @@ Visualize Page:	Interactive line and pie charts showing spending patterns.
 Customize Page:	Edit meal items, rates, or delete old entries easily and  also allows users to add new Items in the Mess
 
 
-💡 Future Enhancements
+💡 Future Enhancements:
 
 ☁️ Cloud sync using Firebase
 
@@ -81,7 +81,7 @@ Customize Page:	Edit meal items, rates, or delete old entries easily and  also a
 📤 Export expense reports to PDF/Excel
 
 🧾 Multi-member group mess tracking
-
+\n
 
 ✨Developer
 

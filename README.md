@@ -51,20 +51,64 @@ It simplifies financial tracking for hostelers and helps them monitor how their 
 🧮 Summary Widgets: Live total, remaining, and per-day average display.
 
 🛠️ Tech Stack
+
 Category	         Technology
+
 Framework	Flutter   (Dart)
+
 State Management	  GetX
+
 Local Database  	  Hive
+
 Charts	            fl_chart
+
 Fonts	              Google Fonts
+
 UI Theme	          Material 3, Deep Purple Accent
+
 Image Handling	    image_picker
+
 Other Packages	    intl, shared_preferences
-📱 Screens / Pages Overview
+
+📱 Screens / Pages Overview:
+
 Page	Description
-Splash Screen	Modern animated splash with app logo and deep purple theme.
-Home Page	Displays daily expenses, total summary, and navigation to mess or visualization.
-Add Expense Page	Allows users to add or edit expenses with validations.
-Mess Page	Manage mess menu, calculate total and per-head cost.
-Visualize Page	Interactive line and pie charts showing spending patterns.
-Customize Page	Edit meal items, rates, or delete old entries easily.
+
+Splash Screen: 	Modern animated splash with app logo and deep purple theme.
+
+Home Page: 	Displays daily expenses, total summary, and navigation to mess or visualization.
+
+Mess Page:	Manage mess menu, calculate total and per-head cost.
+
+Visualize Page:	Interactive line and pie charts showing spending patterns.
+
+Customize Page:	Edit meal items, rates, or delete old entries easily and  also allows users to add new Items in the Mess
+
+
+💡 Future Enhancements
+
+☁️ Cloud sync using Firebase
+
+🧠 AI-based spending insights (e.g., “You spent 25% more on dinner this week”)
+
+📅 Monthly budget planner
+
+🔐 Login and user-specific data
+
+📤 Export expense reports to PDF/Excel
+
+🧾 Multi-member group mess tracking
+
+
+✨Developer
+
+👨‍💻 Tanveer Hussain
+A passionate Flutter developer focused on building useful, modern apps for real-world problems faced by students.
+
+🌐 GitHub: Tanveer-Hussian
+
+💬 “Manage your hostel life smarter — with HostelBuddy.”
+
+
+
+

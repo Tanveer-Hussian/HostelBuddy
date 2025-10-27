@@ -29,9 +29,9 @@ It simplifies financial tracking for hostelers and helps them monitor how their 
 
 📅 Monthly Insights: Visualize expenses for the selected month or range.
 
-📉 Compare Trends: Track how your spending habits evolve over time.
+📉 Compare Trends: Track how your spending habits evolve over time.<br>
 
-.
+<br>
 
 🛠️ Tech Stack:
 
@@ -53,7 +53,7 @@ Image Handling	----     image_picker
 
 Other Packages	----     intl, shared_preferences
 
-.
+<br>
 
 📱 Screens / Pages Overview:
 
@@ -82,7 +82,9 @@ Home Page:-
 <img width="251" height="559" alt="image" src="https://github.com/user-attachments/assets/37dae959-5c80-419a-81a7-0a32e30a716e" />
 <img width="791" height="567" alt="image" src="https://github.com/user-attachments/assets/8fa8a63e-c9ae-45b3-ba26-dae2c68f9402" />
 <img width="797" height="567" alt="image" src="https://github.com/user-attachments/assets/7d3e9855-03fc-424b-9f9c-04a73df6e26b" />
+![1000085189](https://github.com/user-attachments/assets/73c944b0-88d9-46c9-abed-2d6aa5c41b77)
 
+<br>
 <br>
 Customize Menu Page:-
 <br>

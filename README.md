@@ -74,7 +74,7 @@ Customize Page:	Edit meal items, rates, or delete old entries easily and  also a
 <br>
 Splash Screen:-
 <br>
-<img width="311" height="613" alt="image" src="https://github.com/user-attachments/assets/8f408b2b-aaac-4f17-afe3-d747ee4dfc0b" /><br>
+<img width="311" height="513" alt="image" src="https://github.com/user-attachments/assets/8f408b2b-aaac-4f17-afe3-d747ee4dfc0b" /><br>
 
 <br>
 Home Page:-
@@ -88,20 +88,19 @@ Home Page:-
 Customize Menu Page:-
 <br>
 <img width="1121" height="596" alt="image" src="https://github.com/user-attachments/assets/e9407a8e-b369-4603-87c5-24def22c7e65" />
-<img width="1121" height="596" alt="image" src="https://github.com/user-attachments/assets/ed4b6b30-e0c4-4c14-b10e-1e258c7fc962"/>
-<img width="1121" height="596" alt="image" src="https://github.com/user-attachments/assets/c892e46c-e076-4779-9559-835c6e8423b4"/> <br>
-
+<img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/ed4b6b30-e0c4-4c14-b10e-1e258c7fc962"/><br>
 
 
 <br>
 Stats and Insights Page:-
 <br>
-<img width="363" height="748" alt="image" src="https://github.com/user-attachments/assets/5765358d-2ab6-4d0a-9670-973b957daf0d" /><br>
+<img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/5765358d-2ab6-4d0a-9670-973b957daf0d" />
+<img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/c892e46c-e076-4779-9559-835c6e8423b4"/> <br>
 
 <br>
 Bills and History Page
 <br>
-<img width="812" height="893" alt="image" src="https://github.com/user-attachments/assets/42d0fda3-f249-4fe3-843b-92786c6e0b99" />
+<img width="812" height="693" alt="image" src="https://github.com/user-attachments/assets/42d0fda3-f249-4fe3-843b-92786c6e0b99" />
 
 
 

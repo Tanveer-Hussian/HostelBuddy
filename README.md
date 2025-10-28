@@ -97,7 +97,6 @@ Stats and Insights Page:-
 <img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/5765358d-2ab6-4d0a-9670-973b957daf0d" />
 <img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/11ee8140-8cbf-441a-920b-5423bc40101d"/> <br>
 
-<img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/c892e46c-e076-4779-9559-835c6e8423b4"/> <br>
 
 <br>
 Bills and History Page

@@ -88,13 +88,15 @@ Home Page:-
 Customize Menu Page:-
 <br>
 <img width="1121" height="596" alt="image" src="https://github.com/user-attachments/assets/e9407a8e-b369-4603-87c5-24def22c7e65" />
-<img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/ed4b6b30-e0c4-4c14-b10e-1e258c7fc962"/><br>
+<img width="348" height="510" alt="image" src="https://github.com/user-attachments/assets/ed4b6b30-e0c4-4c14-b10e-1e258c7fc962"/><br>
 
 
 <br>
 Stats and Insights Page:-
 <br>
 <img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/5765358d-2ab6-4d0a-9670-973b957daf0d" />
+<img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/11ee8140-8cbf-441a-920b-5423bc40101d"/> <br>
+
 <img width="363" height="548" alt="image" src="https://github.com/user-attachments/assets/c892e46c-e076-4779-9559-835c6e8423b4"/> <br>
 
 <br>
